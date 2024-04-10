@@ -1,0 +1,38 @@
+.pad a{
+    text-decoration: none;
+    color: palevioletred;
+}
+.bhu{
+ opacity: 0.6;
+ margin-top: -8px;
+ border-radius: 30%;
+}
+.jui{
+    opacity: 0.6;
+}
+.bux{
+    border-radius: 20px;
+}
+.bux img{
+    height: 120px;
+    width: 200px;
+    border-radius: 20px;
+}
+.jio{
+    background-color: palevioletred;
+    color: white;
+    border-radius: 500px;
+}
+
+.mui{
+    background-color: palevioletred;
+    color: white;
+    width: 200px;
+}
+
+button.mui:disabled {
+    background-color: palevioletred !important;
+    color: white !important;
+    opacity: 0.5;
+    cursor: not-allowed;
+}
